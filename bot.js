@@ -55,4 +55,3 @@ client.on('message', (msg) => {
 });
 
 client.login('NTk3NjcyMDE4MjYzMTQ2NTE4.XSLfeQ.zlQhD0BmfPZu-JQKdvKYVmSmu-k');
-node client.js
